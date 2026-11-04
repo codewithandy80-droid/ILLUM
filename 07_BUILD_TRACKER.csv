@@ -1,0 +1,11 @@
+﻿Phase,Requirement/Work Item,Status,Evidence/Test,Known Issue,Next Action,User Accepted
+0,"Read PRD, confirm baseline and inspect current AI Studio project",Not Started,,,Run Prompt 0,No
+1,"App foundation, navigation, project workspace tabs, separate SEO sub-tabs",Not Started,,,After technical proposal approval,No
+2,Project management and source story intake/persistence,Not Started,,,Implement after Phase 1 acceptance,No
+3,Skill 1 Story-to-Script,Not Started,,,Implement after Phase 2 acceptance,No
+4,Skill 2 Script-to-Video prompts,Not Started,,,Implement after Skill 1 acceptance,No
+5,Skill 3 Script-to-Thumbnail prompts,Not Started,,,Implement after Skill 1 acceptance,No
+6,Skill 4 Story & Script-to-SEO; separate YouTube/Instagram,Not Started,,,Implement after Skill 1 acceptance,No
+7,"Orchestration, dependency gates, stale invalidation, history, errors",Not Started,,,Implement after skill phases,No
+8,"Copy/export, settings, security, accessibility, polish",Not Started,,,Implement after Phase 7 acceptance,No
+9,Full acceptance audit and release readiness,Not Started,,,Run all tests in 05_ACCEPTANCE_TESTS.md,No
